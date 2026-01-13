@@ -1,0 +1,20 @@
+.Caja {
+    width: 200px;
+    height: 500px;
+    background-color: blue;
+}
+
+.caja2 {
+    background-color: #000000;
+    width: 100px;
+    height: 150px;
+    border: 40px solid blue;
+
+}
+
+.caja3 {
+    background-color: #000000;
+    width: 100px;
+    height: 150px;
+    border: 40px solid blue;
+}
