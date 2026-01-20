@@ -40,3 +40,48 @@ p {
     font-size: 24px;
     text-align: center;
 }
+
+.contenedor2 {
+    display: flex;
+    justify-content: center;
+    gap: 10px;
+    margin-top: 20px;      
+
+}
+
+.caja3, .caja4, .caja5, .caja6, .caja7, .caja8 {
+    background-color: orange;
+    width: 100px;
+    height: 100px;
+    border: 2px solid black;
+}
+
+.cajamadre {
+    background-color: yellow;
+    display: flex;
+    justify-content: center;
+    margin-top: 20px;
+}
+
+.cajahija1 {
+    background-color: green;
+    width: 100px;
+    height: 100px;
+}
+
+.cajahija2 {
+    background-color: blue;
+    width: 100px;
+    height: 100px;
+}
+.cajahija3 {
+    background-color: orange;
+    width: 100px;
+    height: 100px;
+}
+.cajahija4 {
+    background-color: rgb(110, 66, 0);
+    width: 100px;
+    height: 100px;
+    border: 2px solid black;
+}
